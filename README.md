@@ -12,7 +12,8 @@ Contains a method for optimizing the marketing spending on different channels us
 
 3.  You can see the output in the web browser
 
-Format: ![Alt Text]()
+Format: 
+![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/Digital-Marketing-Spend-Optimisation-Using-Linear-Programming/blob/master/Streamlit.JPG)
 
 In any business, we would like to make unlimited profit/zero loss/unlimited utilization of resources but there are constraints like capacity constraints/budget constraints/production constraints/resource constraints because of which we cannot achieve them.
 
