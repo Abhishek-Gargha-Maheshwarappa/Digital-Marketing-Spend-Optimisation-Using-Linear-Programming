@@ -1,6 +1,19 @@
 # Digital-Marketing-Spend-Optimisation-Using-Linear-Programming
 Contains a method for optimizing the marketing spending on different channels using google or tools
 
+# It contains python script with streamlit app 
+
+## Steps to run python script
+
+1.  install streamlit 
+[install streamlit](https://docs.streamlit.io/en/latest/troubleshooting/clean-install.html)
+
+2.  streamlit run script.py
+
+3.  You can see the output in the web browser
+
+Format: ![Alt Text]()
+
 In any business, we would like to make unlimited profit/zero loss/unlimited utilization of resources but there are constraints like capacity constraints/budget constraints/production constraints/resource constraints because of which we cannot achieve them.
 
 There are 3 characteristics of an optimization problem:
